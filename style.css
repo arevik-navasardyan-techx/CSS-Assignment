@@ -118,7 +118,6 @@
             flex-wrap: wrap;
             gap: 15px;
             margin: 20px 0;
-            /* flex-direction: row (by default) */
         }
 
         .flex-item {
